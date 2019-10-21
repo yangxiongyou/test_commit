@@ -8,6 +8,11 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Main {
  final  static  String ss = "aaa";
     public static void main(String[] args) {
+
+        System.out.println("------------");
+        System.out.println("=====================");
+
+
         HashMap<String, String> hashMap = new HashMap<>();
         HashMap<Object, Object> map = new HashMap<>();
 

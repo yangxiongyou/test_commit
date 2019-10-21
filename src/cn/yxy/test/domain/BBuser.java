@@ -1,5 +1,8 @@
 package cn.yxy.test.domain;
 
+/**
+ *
+ */
 public class BBuser {
     public String getName() {
         return name;
