@@ -8,11 +8,11 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Main {
  final  static  String ss = "aaa";
     public static void main(String[] args) {
-
-
-        System.out.println("00000000000000000");
+        System.out.println("");
+        System.out.println("000000000");
+        System.out.println("------------");
         System.out.println("=====================");
-        System.out.println("99999999999999999999999");
+        System.out.println("goods moring ------");
 
         HashMap<String, String> hashMap = new HashMap<>();
         HashMap<Object, Object> map = new HashMap<>();
