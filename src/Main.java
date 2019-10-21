@@ -8,6 +8,8 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Main {
  final  static  String ss = "aaa";
     public static void main(String[] args) {
+        System.out.println("2222");
+        System.err.print("------------");
         System.out.println("");
         System.out.println("000000000");
         System.out.println("------------");
